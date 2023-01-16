@@ -1,7 +1,6 @@
 <script setup>
     import { onMounted, ref } from "vue";
-    import { useRouter } from "vue-router";
-
+    import router from "../../router";
 
 
     let form = ref([{id: ''}])

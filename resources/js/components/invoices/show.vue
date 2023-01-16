@@ -169,7 +169,7 @@
                         <div class="grand__total" >
                             <div class="grand__total--items">
                                 <p>Grand Total</p>
-                                <span>$ {{form.total}}}</span>
+                                <span>$ {{form.total}}</span>
                             </div>
                         </div>
                     </div>
